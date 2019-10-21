@@ -1,0 +1,13 @@
+{
+  "id": "yappy-im",
+  "name": "yappy-im",
+  "version": "1.0.0",
+  "description": "Yappy.IM",
+  "main": "index.js",
+  "author": "Russ Bryan",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://www.yappy.im/web/#Messages/",
+    "hasNotificationSound": true
+  }
+}
